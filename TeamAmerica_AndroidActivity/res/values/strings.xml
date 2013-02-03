@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TeamAmerica</string>
+    <string name="BabysFirstPoop">Poop</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="bluetoothlbl">Bluetooth</string>
+    <string name="wifilbl">WiFi</string>
+
+</resources>
